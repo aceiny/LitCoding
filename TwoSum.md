@@ -15,8 +15,6 @@ O(n) // 55ms
 
 - Space complexity:
 17mb
-## How did i solve it 
-
 
 ## Code
 ```
